@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DunkDash</string>
+    <string name="splash_screen_logo_path">"@drawable/splash_screen"</string>
+</resources>

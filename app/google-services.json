@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888045186645",
+    "project_id": "dunkdash-df5c8",
+    "storage_bucket": "dunkdash-df5c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888045186645:android:419ca92fbc6975e297aedc",
+        "android_client_info": {
+          "package_name": "com.example.dunkdash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBocCtdqgc8BUhxvoHVOj1USB5mpEahupk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
